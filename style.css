@@ -1,0 +1,28 @@
+html {
+  height: 90%;
+  width: 90%;
+  background-color: #020215;
+  color: #6a1555;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 50px;
+}
+
+span {
+  font-size: 50px;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#hour,
+#min,
+#sec {
+  background-color: #fff;
+}
